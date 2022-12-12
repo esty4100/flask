@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "name": "red",
+        "price": 10,
+        "intensity": 0,
+        "image": "7",
+        "profile": {
+            "roasting": 5,
+            "acidity": 4,
+            "bitterness": 0,
+            "body": 4
+        }
+    },
+    {
+        "id": 1,
+        "name": "blue",
+        "price": 0,
+        "intensity": 0,
+        "image": "5",
+        "profile": {
+            "roasting": 5,
+            "acidity": 3,
+            "bitterness": 0,
+            "body": 0
+        }
+    }
+]
